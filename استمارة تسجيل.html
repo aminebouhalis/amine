@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+		<title> استمارة التسجيل</title>
+</head>
+<body>
+		<form action="sample-page-handler.html" method="GET">
+				<input type="text" name="اللقب" placeholder="اللقب"/> <br/>
+					<input type="text" name="الإسم" placeholder=" الإسم"/> <br/>
+					<input type="text" name="التخصص" placeholder="التخصص"/> <br/>
+					<input type="text" name="المستوى" placeholder=" المستوى "  /> <br/>
+					<input type="text" name="الهوايات" placeholder="الهوايات"/> <br/>
+					<input type="text" name="كيف تعرفت على النادي" placeholder="كيف تعرفت على النادي"/> <br/>
+					<input type="text" name="ماهي القيمة المضافة " placeholder =" ماهي القيمة المضافة "/> <br/>
+					<input type="text" name="لما اخترت نادينا" placeholder="لما اخترت نادينا"/> <br/>
+				<input type="email" id="demo" name="email"/>
+					<input type="submit"/>
+		</form>
+		<br />
+		<button onclick=" getvalue()"> Get value</button>
+		<script type="text/javascript">
+		 function getvalue() {
+		 		alert(document.getelementById('demo').value);
+		 }
+		</script>
+</body>
+</html>
