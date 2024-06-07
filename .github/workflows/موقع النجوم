@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+		<title> ☆ STARS-CLUB☆</title>
+</head>
+<body>
+		<header> 
+				<nav>
+						<h1 style="text-align:center"style="color:gold">
+								
+		☆						STARS-CLUB☆ ♤♡  نادي النجوم ♤♡
+								
+								<p style="float:center">
+								<a href="index.html">  أهم نشاطاتنا </a>
+										<a href="نبذة عنا"> نبذة عن النادي</a>
+								<a href="رأيك">  رأيك</a>
+								<a href="#">  حول</a>
+								<a href ="استمارة التسجيل">  انضم لنا</a>
+								<a href="https://www.facebook.com/profile.php?id=100087723866769" >our page</a>
+						</p>
+				</nav>
+		</header>
+		<br/>
+		<hr/>
+		<main>
+				<h1 align=:"reight"> نادي النجوم يرحب بكم</h1>
+		<img src="https://www.facebook.com/photo.php?fbid=285916234342503&set=a.112118488388946&type=3&mibextid=AwY8MHCEufnrIXm5"style="float:left"width="250px"height="250px"/>
+		<p> مرحبا بكم في نادينا -</p>
+		<p>  يسرنا إنضمامك لعائلتنا-</p>
+		</main>
+		<footer>
+				<h2> &copy;the copyright is reseved to start club|2024</h2>
+		</footer>
+</body>
+</html>
