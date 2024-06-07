@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Try It Yourself</title>
+  <style type="text/css">
+    textarea {
+      background-color: #000000; /* changing background-color */
+      color: #d9534f; /* changing the text color */
+      border: none; /* removing border */
+      outline: none; /* removing outline */
+      resize: none; /* disabling the resize functionality */
+    }
+  </style>
+</head>
+<body>
+  <textarea rows="10" cols="40" placeholder="Type your message here..." id="sample"></textarea>
+  <br>
+  <button onclick="getValue();"> Get Value </button>
+  
+  <script type="text/javascript">
+    function getValue() {
+      var value = document.getElementById('sample').value;
+      alert(value);
+    }
+  </script>
+</body>
+</html>
+
